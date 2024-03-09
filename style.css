@@ -1,3 +1,10 @@
 body {
     text-align: center;
 }
+#images  {
+    width: 1800px;
+    height: 300px;
+}
+#images img {
+    float: left;
+}
