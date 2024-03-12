@@ -1,0 +1,1 @@
+Display images and text about the images to display ability to create desent page layout.
